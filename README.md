@@ -35,6 +35,16 @@ When teaching web design, the best approach I have found thus far:
 * Show students how to find and use CSS frameworks, HTML components, free image assets, and free icons and artwork.
 * Licensing terms and attribution are important. Have students demonstrate how and where to find terms and evaluate whether they are compatible with their project.
 
+## Assignment Submissions
+
+**All assignments that are actual code should be turned in via Git repositories.**
+
+Git (and other Distributed Version Control Systems (DVCS)) are standard parts of a professional software development workflow. Students should be exposed to these tools and become proficient with their use even for small projects in entry level classes.
+
+Using LMS based "turn it in" solutions do a disservice to students, their future employers, and the general public. Lack of familiarity with proper version control systems and methodologies leads to lost work, lower quality code, unnecessarily lengthened troubleshooting sessions, and difficulties properly integrating code on group and real world projects.
+
+The best way to integrate Git repos with Canvas and other LMSs is to have students submit a link to the repository URL.
+
 ## Grading
 
 The most difficult aspect of implementing the above in a traditional educational setting is keeping grading effort manageable.
