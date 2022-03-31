@@ -2,6 +2,10 @@
 
 A collection of resources to assist with the automation of grading project-based assignments. Initially created for _Internet/Web Development Level I (CIS133DA)_ at Gateway Community College.
 
+## License
+
+This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](LICENSE). If you have any questions, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
 ## Principles
 
 Applying a traditional memorize and test approach to teaching web design and development is doomed to failure because:
