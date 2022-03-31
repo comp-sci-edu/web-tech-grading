@@ -34,3 +34,11 @@ When teaching web design, the best approach I have found thus far:
 * Discuss the difference between copying code snippets to create a certain component or achieve a certain look and actual plagiarism which is copying of content.
 * Show students how to find and use CSS frameworks, HTML components, free image assets, and free icons and artwork.
 * Licensing terms and attribution are important. Have students demonstrate how and where to find terms and evaluate whether they are compatible with their project.
+
+## Grading
+
+The most difficult aspect of implementing the above in a traditional educational setting is keeping grading effort manageable.
+
+In today's classroom, Learning Management Systems (LMS) are common. Most LMSs tend to have built-in quiz, test, and other automated grading features that can drastically reduce the amount of time and effort spent by teachers. Reducing unnecessary work for teachers is critically important to ensure that their limited time is spent on higher impact planning and instruction of students.
+
+In order to meet the above goals while keeping grading time manageable on heterogenous student projects, it's important to automate as much of the grading process as possible. Fortunately, modern web development tooling is robust allowing us to automate most code quality assessments without forcing students to all work on clones of the same project.
