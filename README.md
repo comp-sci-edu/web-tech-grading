@@ -52,3 +52,11 @@ The most difficult aspect of implementing the above in a traditional educational
 In today's classroom, Learning Management Systems (LMS) are common. Most LMSs tend to have built-in quiz, test, and other automated grading features that can drastically reduce the amount of time and effort spent by teachers. Reducing unnecessary work for teachers is critically important to ensure that their limited time is spent on higher impact planning and instruction of students.
 
 In order to meet the above goals while keeping grading time manageable on heterogenous student projects, it's important to automate as much of the grading process as possible. Fortunately, modern web development tooling is robust allowing us to automate most code quality assessments without forcing students to all work on clones of the same project.
+
+## Tooling
+
+The tooling available consists of validators, linters, formatters, processors, accessibility checkers, and various other static analysis tools that can find, and in some cases automatically correct, errors and omissions in code. Further, modern text editors, Integrated Development Environments (IDE), and web browsers have many such tools built-in allowing students to get immediate feedback on things that need to be added or corrected. **Use of such tools by students should be strongly encouraged as it is best practice in the industry.**
+
+For students without access to a suitable development machine, online versions or equivalents of almost every tool are available. Students will not get the realtime feedback from built-in tooling, but they can still be sure that their code is correct with only one or two extra steps.
+
+For Command Line Interface (CLI) convenience functions to make grading easier using these tools, see the [grading.zsh](grading.zsh) file. The functions were written for Zsh on macOS but should be easy to adapt to other shells and platforms.
