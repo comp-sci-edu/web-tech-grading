@@ -4,8 +4,8 @@ A collection of resources to assist with the automation of grading project-based
 
 ## Canonical Sources
 
-* [GitLab](* https://gitlab.com/comp_sci_edu/web-tech-grading)
-* [GitHub](* https://github.com/comp-sci-edu/web-tech-grading)
+* [GitLab](https://gitlab.com/comp_sci_edu/web-tech-grading)
+* [GitHub](https://github.com/comp-sci-edu/web-tech-grading)
 * [Keybase](keybase://team/comp_sci_edu/web-tech-grading)
 
 ## License
