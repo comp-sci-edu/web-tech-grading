@@ -17,3 +17,16 @@ Further, grading work or any type of metrics based incentivization, is detriment
 
 * [I no longer grade my students’ work, and I wish I had stopped sooner](https://theconversation.com/i-no-longer-grade-my-students-work-and-i-wish-i-had-stopped-sooner-179617)
 * Pending additions...
+
+## Approach
+
+When teaching web design, the best approach I have found thus far:
+
+* Instructors should tend toward live coding rather than traditional lecture.
+* The futility of intentional memorization in the web design space should be emphasized. It's good for students to see that instructors look things up in docs frequently.
+* The difference between reference documentation and tutorials/guides should be explained. References give excessive detail, tutorials/guides demonstrate integration of techniques and technologies toward a goal.
+* Assignments should be project based work of the students choosing (resume website, personal interest website, etc.).
+* Collaboration between students should be encouraged throughout class. However, on most assignments each student should turn in their own project, even if they worked as a group i.e. 3 students working in a group will turn in 3 separate projects.
+* Discuss the difference between copying code snippets to create a certain component or achieve a certain look and actual plagiarism which is copying of content.
+* Show students how to find and use CSS frameworks, HTML components, free image assets, and free icons and artwork.
+* Licensing terms and attribution are important. Have students demonstrate how and where to find terms and evaluate whether they are compatible with their project.
