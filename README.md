@@ -66,3 +66,24 @@ The tooling available consists of validators, linters, formatters, processors, a
 For students without access to a suitable development machine, online versions or equivalents of almost every tool are available. Students will not get the realtime feedback from built-in tooling, but they can still be sure that their code is correct with only one or two extra steps.
 
 For Command Line Interface (CLI) convenience functions to make grading easier using these tools, see the [grading.zsh](grading.zsh) file. The functions were written for Zsh on macOS but should be easy to adapt to other shells and platforms.
+
+### Validators
+
+* [HTML-validate - Configuration presets](https://html-validate.org/rules/presets.html)
+* [htmlhint/HTMLHint: ⚙️ The static code analysis tool you need for your HTML](https://github.com/HTMLHint/HTMLHint)
+* [ruilisi/css-checker: Show Similar & Duplicated CSS Scripts with Diff in Seconds!](https://github.com/ruilisi/css-checker)
+* [Home | Stylelint](https://stylelint.io/)
+* [prettier/stylelint-config-prettier: Turns off all rules that are unnecessary or might conflict with prettier.](https://github.com/prettier/stylelint-config-prettier)
+* [hugomrdias/prettier-stylelint: code > prettier > stylelint > formatted code](https://github.com/hugomrdias/prettier-stylelint)
+* [stylelint/stylelint-config-standard: The standard shareable config for Stylelint](https://github.com/stylelint/stylelint-config-standard)
+* [stylelint/stylelint-config-recommended: The recommended shareable config for Stylelint](https://github.com/stylelint/stylelint-config-recommended)
+
+### Formatters
+
+* [Prettier · Opinionated Code Formatter](https://prettier.io/)
+
+### CSS Cleaning
+
+* [purifycss/purifycss: Remove unused CSS. Also works with single-page apps.](https://github.com/purifycss/purifycss)
+* [FullHuman/purgecss: Remove unused CSS](https://github.com/FullHuman/purgecss)
+* [uncss/uncss: Remove unused styles from CSS](https://github.com/uncss/uncss)
